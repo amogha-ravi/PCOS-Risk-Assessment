@@ -103,13 +103,3 @@ Frontend runs at:
 http://localhost:5173
 ```
 
-
-
-
-
-## 👩‍💻 Developer
-
-**Sakshi S Jangi**
-
-B.Tech Electronics and Communication Engineering  
-National Institute of Technology Warangal
