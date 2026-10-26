@@ -1,0 +1,1 @@
+export const BASE_URL = "https://pcos-backend-l6xq.onrender.com";
